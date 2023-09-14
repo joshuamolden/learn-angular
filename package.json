@@ -5,6 +5,7 @@
     "build": "ng build",
     "component": "ng generate component",
     "ng": "ng",
+    "service": "ng generate service",
     "start": "ng serve --open",
     "test": "ng test",
     "watch": "ng build --watch --configuration development"
